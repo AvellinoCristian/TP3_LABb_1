@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1527798154 source:c:\users\iekuu\desktop\tp3\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1527898017 c:\users\iekuu\desktop\tp3\tp_3_cascara\funciones.h
+
+1527798154 source:c:\users\iekuu\desktop\tp3\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"Inputs.h"
+
+1527720679 c:\users\iekuu\desktop\tp3\tp_3_cascara\inputs.h
+
+1527721693 source:c:\users\iekuu\desktop\tp3\tp_3_cascara\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Inputs.h"
+	"funciones.h"
+
